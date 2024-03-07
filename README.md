@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project was moved to [polkadot-sdk](https://github.com/paritytech/polkadot-sdk).
+
 # substrate-bip39
 
 This is a crate for deriving secret keys for Ristretto compressed Ed25519 (should be compatible with Ed25519 at this time) from BIP39 phrases.
